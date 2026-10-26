@@ -1,0 +1,11 @@
+{
+  "location": "Austin, TX",
+  "maxResults": 10,
+  "proxyConfiguration": {
+    "useApifyProxy": true,
+    "apifyProxyGroups": [
+      "RESIDENTIAL"
+    ],
+    "apifyProxyCountry": "US"
+  }
+}
